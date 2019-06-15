@@ -4,19 +4,19 @@
 
 It is a resource for studying linear algebra.
 
-### Linear system & Linear transformation([notebook]())
+### 1. Linear system & Linear transformation([notebook]())
 
 
-### Least square([notebook]())
+### 2. Least square([notebook]())
 
 
-### Eigenvalue decomposition([notebook]())
+### 3. Eigenvalue decomposition([notebook]())
 
 
-### Singular value decomposition([notebook]())
+### 4. Singular value decomposition([notebook]())
 
 
-### Principal component analysis([notebook]())
+### 5. Principal component analysis([notebook]())
 
 
 ## Reference
