@@ -1,18 +1,22 @@
 # linear_algebra_with_python
 
-## Linear system & Linear transformation([notebook]())
+## Introduction
+
+It is a resource for studying linear algebra.
+
+### Linear system & Linear transformation([notebook]())
 
 
-## Least square([notebook]())
+### Least square([notebook]())
 
 
-## Eigenvalue decomposition([notebook]())
+### Eigenvalue decomposition([notebook]())
 
 
-## Singular value decomposition([notebook]())
+### Singular value decomposition([notebook]())
 
 
-## Principal component analysis([notebook]())
+### Principal component analysis([notebook]())
 
 
 ## Reference
