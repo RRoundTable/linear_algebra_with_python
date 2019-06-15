@@ -1,18 +1,18 @@
 # linear_algebra_with_python
 
-## Linear system & Linear transformation([readme]() / [code]())
+## Linear system & Linear transformation([notebook]())
 
 
-## Least square([readme]() / [code]())
+## Least square([notebook]())
 
 
-## Eigenvalue decomposition([readme]() / [code]())
+## Eigenvalue decomposition([notebook]())
 
 
-## Singular value decomposition([readme]() / [code]())
+## Singular value decomposition([notebook]())
 
 
-## Principal component analysis([readme]() / [code]())
+## Principal component analysis([notebook]())
 
 
 ## Reference
