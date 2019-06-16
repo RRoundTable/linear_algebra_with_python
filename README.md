@@ -16,7 +16,7 @@ It is a resource for studying linear algebra.
 ### 4. Singular value decomposition([notebook]())
 
 
-### 5. Principal component analysis([notebook]())
+### 5. Principal component analysis([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/PCA.ipynb))
 
 
 ## Reference
