@@ -10,10 +10,10 @@ It is a resource for studying linear algebra.
 ### 2. Least square([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/Least_square_problems.ipynb)): 
 
 
-### 3. Eigenvalue decomposition([notebook]()): 
+### 3. Eigenvalue decomposition([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/EigenDecomposition.ipynb)): 
 
 
-### 4. Singular value decomposition([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/EigenDecomposition.ipynb)): 
+### 4. Singular value decomposition([notebook]()): not yet
 
 
 ### 5. Principal component analysis([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/PCA.ipynb))
