@@ -13,7 +13,7 @@ It is a resource for studying linear algebra.
 ### 3. Eigenvalue decomposition([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/EigenDecomposition.ipynb)): 
 
 
-### 4. Singular value decomposition([notebook]()): not yet
+### 4. Singular value decomposition([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/singluar_value_decomposition.ipynb)): 
 
 
 ### 5. Principal component analysis([notebook](https://github.com/RRoundTable/linear_algebra_with_python/blob/master/PCA.ipynb))
